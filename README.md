@@ -1,1 +1,1 @@
-# maxwang.github.io
+# Max的日常与思考
