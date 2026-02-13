@@ -1,0 +1,8 @@
+{
+  "name": "max-blog",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:index": "node scripts/generate-index.mjs"
+  }
+}

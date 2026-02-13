@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Max 的日常与思考</title>
+    <meta
+      name="description"
+      content="记录日常与思考的个人博客，文章按年/月归档。"
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <main class="layout">
+      <header class="hero">
+        <p class="hero-tag">PERSONAL BLOG</p>
+        <h1 id="site-title">Max 的日常与思考</h1>
+        <p id="site-description" class="hero-description">
+          记录日常与思考，用文字沉淀行动和判断。
+        </p>
+      </header>
+
+      <section class="panel">
+        <div class="toolbar">
+          <button class="filter is-active" data-filter="all">全部</button>
+          <button class="filter" data-filter="daily">日常</button>
+          <button class="filter" data-filter="thinking">思考</button>
+        </div>
+        <div id="archive" class="archive-list"></div>
+      </section>
+    </main>
+
+    <script type="module" src="assets/archive.js"></script>
+  </body>
+</html>

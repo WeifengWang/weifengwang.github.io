@@ -1,0 +1,16 @@
+[
+  {
+    "title": "2026-02-13 日常：把博客搭起来",
+    "date": "2026-02-13",
+    "type": "daily",
+    "summary": "今天完成了博客最小可用版本，写作、归档和评论都打通了。",
+    "path": "posts/2026/02/2026-02-13-daily-blog-setup.md"
+  },
+  {
+    "title": "2026-02-13 思考：写作系统比灵感更重要",
+    "date": "2026-02-13",
+    "type": "thinking",
+    "summary": "稳定输出不是靠临时状态，而是靠低摩擦的写作系统。",
+    "path": "posts/2026/02/2026-02-13-thinking-writing-system.md"
+  }
+]
